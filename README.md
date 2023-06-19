@@ -51,7 +51,7 @@
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglacier-han&count_bg=%648F32&title_bg=%648F32FF&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/glacier-han)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=glacier-han&theme=nord&hide_border=true&count_private=true)](https://github.com/glacier-han/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=glacier-han&theme=nord&hide_border=true&count_private=true)](https://github.com/Glacier-Han)
 
  
 <br>
