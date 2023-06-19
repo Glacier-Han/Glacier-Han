@@ -18,7 +18,7 @@
     <a href="https://h-glacier.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-648F32?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="[https://h-glacier.tistory.com/](https://play.google.com/store/apps/dev?id=6544621968779634318&hl=ko)">
+    <a href="https://play.google.com/store/apps/dev?id=6544621968779634318&hl=ko">
         <img src="https://img.shields.io/badge/PlayStore-448AFF?style=for-the-badge&logo=googleplay&logoColor=white"> 
     </a>
   </div><br>
