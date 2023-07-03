@@ -6,7 +6,7 @@
 - [🧑🏻‍💻 Freelance Developer (Android, Python)](https://kmong.com/@Glacier)<br>
 - [📱 Android App Developer (Play Store Dev Page)](https://play.google.com/store/apps/dev?id=6544621968779634318&hl=ko)<br>
 - [▶️ Youtube 기타치는 개발자](https://www.youtube.com/channel/UCURgvuyeuozBBEecR1ROZkw)<br>
-- [📗 E-Book (따라하며 배우는 파이썬 1편)](https://kmong.com/gig/359766)<br>
+- [📗 E-Book (따라하며 배우는 파이썬 1편)](https://kmong.com/gig/355326)<br>
 - [💻 Google Developer Student Club KNU (Android)](https://github.com/GDSC-KNU)<br>
 - [🚗 Hyndai Softeer Bootcamp 2nd (Mobile)](https://www.softeerbootcamp.com/)<br>
 
