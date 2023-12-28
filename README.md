@@ -2,7 +2,7 @@
 
 ## 😆 Who am I?
 (Click to read detail)
-- [🧑🏻‍💻 Freelance Developer (Android, Python)]<br>
+- [🧑🏻‍💻 Freelance Developer (Android, Python)](https://kmong.com/)<br>
 - [📱 Android App Developer (Play Store Dev Page)](https://play.google.com/store/apps/dev?id=6544621968779634318&hl=ko)<br>
 - [▶️ Youtube 기타치는 개발자](https://www.youtube.com/channel/UCURgvuyeuozBBEecR1ROZkw)<br>
 - [📗 E-Book (따라하며 배우는 파이썬 1편)](https://kmong.com/self-marketing/355326/cD46tc81vo)<br>
