@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Glacier%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20visit%20glacier's%20space!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Byeongha%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20visit%20byeongha's%20space!&descAlignY=51&descAlign=62)
 
 ## 😆 Who am I?
 (Click to read detail)
+- [🎓 Majored in Electronic/Computer Engineering at Kyungpook National University](https://see.knu.ac.kr/)<br>
 - [🧑🏻‍💻 Freelance Developer (Android, Python)](https://kmong.com/)<br>
 - [📱 Android App Developer (Play Store Dev Page)](https://play.google.com/store/apps/dev?id=6544621968779634318&hl=ko)<br>
 - [▶️ Youtube 기타치는 개발자](https://www.youtube.com/channel/UCURgvuyeuozBBEecR1ROZkw)<br>
 - [📗 E-Book (따라하며 배우는 파이썬 1편)](https://kmong.com/self-marketing/355326/cD46tc81vo)<br>
 - [💻 Google Developer Student Club KNU (Android)](https://github.com/GDSC-KNU)<br>
 - [🚗 Hyndai Softeer Bootcamp 2nd (Mobile)](https://www.softeerbootcamp.com/)<br>
-
 
 <br>
 
