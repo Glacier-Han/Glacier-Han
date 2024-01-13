@@ -8,7 +8,7 @@
 - [▶️ Youtube 기타치는 개발자](https://www.youtube.com/channel/UCURgvuyeuozBBEecR1ROZkw)<br>
 - [📗 E-Book (따라하며 배우는 파이썬 1편)](https://kmong.com/self-marketing/355326/cD46tc81vo)<br>
 - [💻 Google Developer Student Club KNU (Android)](https://github.com/GDSC-KNU)<br>
-- [🚗 Hyndai Softeer Bootcamp 2nd (Mobile)](https://www.softeerbootcamp.com/)<br>
+- [🚗 Hyndai Softeer Bootcamp 2nd (Android)](https://www.softeerbootcamp.com/)<br>
 
 <br>
 
